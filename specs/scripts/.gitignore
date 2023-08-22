@@ -1,0 +1,9 @@
+*.spec
+*.tm
+*.xml
+*api.py
+*enum.py
+!*2api.py
+!*2enum.py
+glparams.py
+!Makefile
